@@ -1,0 +1,3 @@
+import OneVariationProductPolaroid from "./OneVariationProductPolaroid"
+
+export default OneVariationProductPolaroid

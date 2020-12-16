@@ -1,0 +1,50 @@
+@font-face {
+    font-display: swap;
+    font-family: 'lato';
+    src: local('lato'),
+    url('/fonts/lato/lato_regular.woff2') format('woff2'),
+    url('/fonts/lato/lato_regular.woff') format('woff'),
+    url('/fonts/lato/lato_regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-display: swap;
+    font-family: 'lato';
+    src: local('lato'),
+    url('/fonts/lato/lato_semibold.woff2') format('woff2'),
+    url('/fonts/lato/lato_semibold.woff') format('woff'),
+    url('/fonts/lato/lato_semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-display: swap;
+    font-family: 'lato';
+    src: local('lato'),
+    url('/fonts/lato/lato_black.woff2') format('woff2'),
+    url('/fonts/lato/lato_black.woff') format('woff'),
+    url('/fonts/lato/lato_black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-display: swap;
+    font-family: 'open-sans';
+    src: local('open-sans'),
+    url('/fonts/open-sans/open-sans_regular.ttf') format('woff2'),
+    url('/fonts/open-sans/open-sans_regular.woff') format('woff'),
+    url('/fonts/open-sans/open-sans_regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-display: swap;
+    font-family: 'open-sans';
+    src: url('/fonts/open-sans/open-sans_semibold.eot');
+    src: local('open-sans'),
+    url('/fonts/open-sans/open-sans_semibold.woff') format('woff'),
+    url('/fonts/open-sans/open-sans_semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}

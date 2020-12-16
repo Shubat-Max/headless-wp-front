@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`component when product renderer <ProductStock> should NOT render <StockList> 1`] = `ReactWrapper {}`;

@@ -1,0 +1,15 @@
+export enum D_Colors {
+    BEIGE = 'бежевый',
+    RED = 'красный',
+    DBLUE = 'синий',
+    BLUE = 'синий',
+    GREY = 'серый',
+    BROWN = 'коричневый',
+    YELLOW = 'желтый',
+    PURPLE = 'фиолетовый',
+    VIOLET = 'фиолетовый',
+    GREEN = 'зеленый',
+    PINK = 'розовый',
+    ORANGE = 'оранжевый',
+    BLACK = 'черный',
+}
